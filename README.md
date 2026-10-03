@@ -1,2 +1,2 @@
-# sudokushrinked
+# sudokushrunk
 Shrunken down sudoku for browser
